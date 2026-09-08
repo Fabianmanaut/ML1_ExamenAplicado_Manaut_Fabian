@@ -6,8 +6,8 @@
 ---
 
 ## 1. Enlaces del Proyecto
-* **Repositorio GitHub:** https://github.com/Fabianmanaut/ML1_ExamenAplicado_Manaut_Fabian
-* **Video de Defensa:** https://drive.google.com/file/d/1DiJTJjsa0k4L1USb85uTd7k4bgCMgl14/view?usp=sharing
+* **Repositorio GitHub:** [https://github.com/Fabianmanaut/ML1_ExamenAplicado_Manaut_Fabian](https://github.com/Fabianmanaut/ML1_ExamenAplicado_Manaut_Fabian)
+* **Video de Defensa:** [https://drive.google.com/file/d/1DiJTJjsa0k4L1USb85uTd7k4bgCMgl14/view?usp=sharing](https://drive.google.com/file/d/1DiJTJjsa0k4L1USb85uTd7k4bgCMgl14/view?usp=sharing)
 
 ---
 
@@ -42,15 +42,14 @@
 ## 5. Instrucciones de Reproducción
 ```bash
 # Clonar repositorio
-git clone [https://github.com/Fabianmanaut/ML1_ExamenAplicado_Manaut_Fabian.git](https://github.com/Fabianmanaut/ML1_ExamenAplicado_Manaut_Fabian.git)
+git clone https://github.com/Fabianmanaut/ML1_ExamenAplicado_Manaut_Fabian.git
 
 # Instalar dependencias
 pip install -r requirements.txt
 
 # Ejecutar el notebook
 jupyter notebook F_Manaut_ML_Examen.ipynb
-
----
+```
 
 ## 6. Declaración de Uso de IA Generativa
 Se declara el uso ético y transparente de herramientas de Inteligencia Artificial Generativa (Gemini / ChatGPT) como apoyo metodológico en la redacción de documentación y depuración de sintaxis de código, habiendo sido los análisis, ejecuciones e interpretaciones revisadas y validadas por el autor.
