@@ -49,3 +49,8 @@ pip install -r requirements.txt
 
 # Ejecutar el notebook
 jupyter notebook F_Manaut_ML_Examen.ipynb
+
+---
+
+## 6. Declaración de Uso de IA Generativa
+Se declara el uso ético y transparente de herramientas de Inteligencia Artificial Generativa (Gemini / ChatGPT) como apoyo metodológico en la redacción de documentación y depuración de sintaxis de código, habiendo sido los análisis, ejecuciones e interpretaciones revisadas y validadas por el autor.
